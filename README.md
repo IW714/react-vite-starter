@@ -16,9 +16,9 @@ Welcome to the **React Vite Starter with FastAPI Backend** project! This reposit
 - [🚀 Installation](#-installation)
   - [Backend Setup](#backend-setup)
   - [Frontend Setup](#frontend-setup)
-- [🏃 Running the Application](#-running_the_application)
-  - [Running the Backend](#running-the-backend)
-  - [Running the Frontend](#running-the-frontend)
+- [🏃 Running the Application](#-running-the-application)
+  - [Running the Backend](#backend)
+  - [Running the Frontend](#frontend)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
