@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Depends
 from fastapi.middleware.cors import CORSMiddleware
-from .auth import verify_token
+from .services.auth import verify_token
 
 app = FastAPI()
 
