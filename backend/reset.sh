@@ -1,4 +1,4 @@
-#!/bin/bash
+# Script for hard reset of backend environment
 set -e  # Exit immediately if a command exits with a non-zero status.
 
 # Upgrade pip
